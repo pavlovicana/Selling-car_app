@@ -1,0 +1,19 @@
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+C:\Users\Tamara\Desktop\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+C:\Users\Tamara\Desktop\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+C:\Users\Tamara\Desktop\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+C:\Users\Tamara\Desktop\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\Desktop\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+C:\Users\Tamara\Desktop\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+C:\Users\Win 7\Desktop\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+C:\Users\Win 7\Desktop\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+C:\Users\Win 7\Desktop\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+C:\Users\Win 7\Desktop\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+C:\Users\Win 7\Desktop\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+C:\Users\Win 7\Desktop\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
